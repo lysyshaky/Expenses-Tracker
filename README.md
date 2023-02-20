@@ -1,16 +1,7 @@
-# money_tracker
+# Espenses Tracker![Simulator Screen Shot - iPhone 13 Pro - 2023-02-20 at 17 26 52](https://user-images.githubusercontent.com/48721796/220146695-4bdc7f3b-2adc-47ab-9db6-67f496da176e.png)
+![Simulator Screen Shot - iPhone 13 Pro - 2023-02-20 at 17 26 25](https://user-images.githubusercontent.com/48721796/220146698-98012311-8951-4b63-8852-416d9348110d.png)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
